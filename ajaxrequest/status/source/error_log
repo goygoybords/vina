@@ -1,0 +1,7 @@
+[26-Aug-2016 23:33:37 America/Denver] PHP Notice:  Undefined variable: stat_desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_insert.php on line 23
+[26-Aug-2016 23:35:08 America/Denver] PHP Notice:  Undefined variable: stat_desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_insert.php on line 23
+[26-Aug-2016 23:37:28 America/Denver] PHP Notice:  Undefined variable: stat_desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_insert.php on line 23
+[26-Aug-2016 23:43:40 America/Denver] PHP Notice:  Undefined variable: db in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_insert.php on line 5
+[26-Aug-2016 23:43:40 America/Denver] PHP Fatal error:  Call to a member function prepare() on null in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_insert.php on line 5
+[26-Aug-2016 23:57:35 America/Denver] PHP Notice:  Undefined variable: db in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_delete.php on line 7
+[26-Aug-2016 23:57:35 America/Denver] PHP Fatal error:  Call to a member function prepare() on null in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/status/source/source_delete.php on line 7

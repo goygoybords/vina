@@ -1,0 +1,933 @@
+[25-Aug-2016 22:57:32 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 77
+[25-Aug-2016 22:57:32 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 77
+[25-Aug-2016 22:57:33 America/Chicago] PHP Fatal error:  Out of memory (allocated 560988160) (tried to allocate 512 bytes) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 8
+[25-Aug-2016 23:00:36 America/Chicago] PHP Notice:  Undefined variable: family in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 72
+[25-Aug-2016 23:10:01 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 32
+[25-Aug-2016 23:17:33 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on boolean in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 21
+[25-Aug-2016 23:17:38 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on boolean in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 21
+[25-Aug-2016 23:55:12 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_add.php on line 18
+[25-Aug-2016 23:55:28 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_add.php on line 18
+[26-Aug-2016 00:04:35 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_add.php on line 19
+[26-Aug-2016 00:04:49 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_add.php on line 19
+[26-Aug-2016 21:35:50 America/Chicago] PHP Fatal error:  Out of memory (allocated 553385984) (tried to allocate 72 bytes) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 8
+[26-Aug-2016 21:35:58 America/Chicago] PHP Fatal error:  Out of memory (allocated 553385984) (tried to allocate 13 bytes) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 8
+[26-Aug-2016 21:37:36 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:37:36 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:37:37 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:38:11 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:38:11 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:38:12 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:38:45 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:38:45 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:38:46 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:41:10 America/Chicago] PHP Notice:  Undefined variable: style in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 21
+[26-Aug-2016 21:41:10 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:41:10 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:41:11 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:42:12 America/Chicago] PHP Notice:  Undefined variable: style in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 40
+[26-Aug-2016 21:42:12 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:42:12 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:42:13 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:42:52 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:42:52 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:42:53 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:43:11 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:43:11 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:43:12 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:44:11 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:44:11 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:44:12 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:44:34 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:44:34 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:44:35 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:47:01 America/Chicago] PHP Warning:  include(../include/forms/family_form.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:47:01 America/Chicago] PHP Warning:  include(): Failed opening '../include/forms/family_form.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:47:28 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:47:28 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 29
+[26-Aug-2016 21:47:29 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/family_form.php on line 31
+[26-Aug-2016 21:50:40 America/Chicago] PHP Warning:  include(forms/status_customer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:50:40 America/Chicago] PHP Warning:  include(): Failed opening 'forms/status_customer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:50:40 America/Chicago] PHP Notice:  Undefined variable: home_list in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 19
+[26-Aug-2016 21:50:40 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 54
+[26-Aug-2016 21:50:40 America/Chicago] PHP Notice:  Undefined variable: cusidb in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 55
+[26-Aug-2016 21:50:40 America/Chicago] PHP Fatal error:  Call to undefined function state_list() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 129
+[26-Aug-2016 21:50:40 America/Chicago] PHP Warning:  include(forms/status_customer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:50:40 America/Chicago] PHP Warning:  include(): Failed opening 'forms/status_customer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:50:40 America/Chicago] PHP Notice:  Undefined variable: home_list in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 19
+[26-Aug-2016 21:50:40 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 54
+[26-Aug-2016 21:50:40 America/Chicago] PHP Notice:  Undefined variable: cusidb in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 55
+[26-Aug-2016 21:50:40 America/Chicago] PHP Fatal error:  Call to undefined function state_list() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/forms/home_form.php on line 129
+[26-Aug-2016 21:51:22 America/Chicago] PHP Warning:  include(forms/status_customer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:51:22 America/Chicago] PHP Warning:  include(): Failed opening 'forms/status_customer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 57
+[26-Aug-2016 21:53:20 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 29
+[26-Aug-2016 21:53:20 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 29
+[26-Aug-2016 21:53:21 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 31
+[26-Aug-2016 21:53:52 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 29
+[26-Aug-2016 21:53:52 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 29
+[26-Aug-2016 21:53:53 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 31
+[26-Aug-2016 20:56:07 America/Denver] PHP Fatal error:  Call to undefined function opendb() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 19
+[26-Aug-2016 20:56:13 America/Denver] PHP Fatal error:  Call to undefined function opendb() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 19
+[26-Aug-2016 20:56:17 America/Denver] PHP Fatal error:  Call to undefined function opendb() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 19
+[26-Aug-2016 21:58:12 America/Chicago] PHP Notice:  Undefined variable: style in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 344
+[26-Aug-2016 21:58:14 America/Chicago] PHP Fatal error:  Out of memory (allocated 559939584) (tried to allocate 1 bytes) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 8
+[26-Aug-2016 22:03:13 America/Chicago] PHP Notice:  Undefined variable: customer_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 29
+[26-Aug-2016 22:03:13 America/Chicago] PHP Notice:  Undefined variable: cusid in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 29
+[26-Aug-2016 22:03:14 America/Chicago] PHP Fatal error:  Call to undefined function fetch_all_array() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 31
+[26-Aug-2016 22:26:09 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:27:11 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:27:19 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:28:54 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:31:27 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:33:54 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:37:20 America/Chicago] PHP Notice:  Undefined variable: result in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 22:37:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 22:37:20 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:38:43 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 21:41:53 America/Denver] PHP Notice:  Undefined variable: result in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 21:41:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 21:41:53 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 21:43:34 America/Denver] PHP Notice:  Undefined variable: db in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 8
+[26-Aug-2016 21:43:34 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 8
+[26-Aug-2016 21:43:42 America/Denver] PHP Notice:  Undefined variable: db in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 8
+[26-Aug-2016 21:43:42 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 8
+[26-Aug-2016 21:44:53 America/Denver] PHP Fatal error:  Using $this when not in object context in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 11
+[26-Aug-2016 21:44:57 America/Denver] PHP Fatal error:  Using $this when not in object context in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 11
+[26-Aug-2016 21:46:00 America/Denver] PHP Fatal error:  Using $this when not in object context in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 11
+[26-Aug-2016 21:47:11 America/Denver] PHP Fatal error:  Using $this when not in object context in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 11
+[26-Aug-2016 21:47:43 America/Denver] PHP Notice:  Undefined variable: stat_customer in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 21:47:43 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 21:47:43 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 21:48:15 America/Denver] PHP Fatal error:  Using $this when not in object context in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 11
+[26-Aug-2016 21:49:32 America/Denver] PHP Fatal error:  Using $this when not in object context in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_scripts/status_scripts.php on line 11
+[26-Aug-2016 21:50:20 America/Denver] PHP Notice:  Undefined variable: stat_customer in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 21:50:20 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[26-Aug-2016 21:50:20 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 21:52:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:01:09 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:01:35 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:03:13 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:03:25 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:03:42 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 34
+[26-Aug-2016 22:08:47 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:08:47 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:08:59 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:08:59 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:09:13 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:09:13 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:41:21 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:41:21 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:41:21 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_source.php on line 33
+[26-Aug-2016 22:44:42 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:44:42 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:49:36 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:49:36 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:58:36 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:58:36 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:58:48 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:58:48 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:58:50 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:58:50 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 22:59:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 22:59:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:07:44 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:07:44 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:09:46 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:09:46 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:11:47 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:11:47 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:17:28 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:17:28 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:17:48 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:17:48 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:18:02 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:18:02 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:20:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:20:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:22:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:22:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:33:12 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:33:12 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:33:38 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:33:38 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:34:28 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:34:28 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:35:12 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:35:12 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:36:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:36:25 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:37:02 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:37:02 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:37:28 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:37:28 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:39:26 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:39:26 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:41:27 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:41:27 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:44:43 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:44:43 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:45:11 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:45:11 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:45:44 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:45:44 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:46:42 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:46:42 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:46:55 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:46:55 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:47:38 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:47:38 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:48:24 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:48:24 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:48:46 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:48:46 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:49:03 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:49:03 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:53:18 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:53:18 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:53:33 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:53:33 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:53:53 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:53:53 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:55:09 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:55:09 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:55:27 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:55:27 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:57:18 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:57:18 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:58:47 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:58:47 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:58:58 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:58:58 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:59:09 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:59:09 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[26-Aug-2016 23:59:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[26-Aug-2016 23:59:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:00:27 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:00:27 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:00:36 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:00:36 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:13:31 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:13:31 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:18:30 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:19:31 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:19:31 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:20:09 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:20:09 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:21:50 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:21:50 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:24:54 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:24:54 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:25:38 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:25:38 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:26:44 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:26:44 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:27:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:27:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:30:29 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:30:29 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:36:44 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:37:27 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:37:27 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:38:12 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:38:12 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:41:18 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:41:18 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:43:40 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 00:45:32 America/Denver] PHP Notice:  Undefined index: NAIC in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 00:46:17 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:46:17 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:47:23 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:47:23 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:47:23 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:47:23 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 18
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: Status_Desc in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:48:25 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:49:37 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:17 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:50:20 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 01:53:14 America/Chicago] PHP Fatal error:  Out of memory (allocated 553385984) (tried to allocate 85 bytes) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 8
+[27-Aug-2016 01:54:57 America/Chicago] PHP Notice:  Undefined variable: getStatCust in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[27-Aug-2016 01:54:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 14
+[27-Aug-2016 01:54:57 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:54:57 America/Chicago] PHP Notice:  Undefined variable: carriers in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 01:54:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 14
+[27-Aug-2016 01:54:57 America/Chicago] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:56:35 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:57:50 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 16
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index:  in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 19
+[27-Aug-2016 00:58:57 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 36
+[27-Aug-2016 00:59:29 America/Denver] PHP Fatal error:  Cannot break/continue 1 level in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 66
+[27-Aug-2016 01:02:41 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:02:41 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:03:53 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:03:53 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:04:33 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:04:33 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:04:33 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_source.php on line 18
+[27-Aug-2016 01:04:33 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_source.php on line 36
+[27-Aug-2016 01:05:30 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:05:30 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:05:30 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_source.php on line 18
+[27-Aug-2016 01:05:30 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_source.php on line 36
+[27-Aug-2016 01:06:34 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:06:34 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:07:48 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:07:48 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:08:34 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:08:34 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:08:34 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 01:08:34 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 35
+[27-Aug-2016 01:09:24 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:09:24 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:09:24 America/Denver] PHP Notice:  Undefined index: Company in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 15
+[27-Aug-2016 01:09:24 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_carriers.php on line 30
+[27-Aug-2016 01:10:36 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:10:36 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:11:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:11:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:11:13 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:11:13 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:11:34 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:11:34 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:13:27 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:13:27 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:14:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:14:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:14:26 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:14:26 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:15:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:15:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:17:26 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:17:26 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:17:56 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:17:56 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:18:15 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:18:15 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:18:31 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:18:31 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:18:45 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:18:45 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:19:19 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:19:19 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:21:00 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:21:00 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:26:34 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:26:34 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:36:37 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:36:37 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:38:53 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:38:53 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:39:48 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:39:48 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:43:28 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:43:28 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:43:41 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:43:41 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:43:59 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:43:59 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:45:38 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:45:38 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:46:13 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:46:13 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:48:10 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:48:10 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:48:55 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:48:55 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:49:21 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:49:21 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:49:27 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:49:27 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:49:32 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:49:32 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:49:43 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:49:43 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:52:15 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:52:15 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:52:32 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:52:32 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:52:52 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:52:52 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:54:31 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:54:31 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:55:02 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:55:02 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 01:55:31 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[27-Aug-2016 01:55:31 America/Denver] PHP Notice:  Undefined index: update in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 36
+[27-Aug-2016 02:01:00 America/Denver] PHP Notice:  Undefined index: r_id in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status_form/status_customer.php on line 18
+[28-Aug-2016 18:39:28 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:39:28 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:39:37 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:39:37 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:39:52 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:39:52 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:42:23 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:42:23 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:43:13 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:43:13 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:43:14 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:43:14 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:43:47 America/Denver] PHP Warning:  include(status/status_manufacturer.php): failed to open stream: No such file or directory in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67
+[28-Aug-2016 18:43:47 America/Denver] PHP Warning:  include(): Failed opening 'status/status_manufacturer.php' for inclusion (include_path='../include') in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/status/status.php on line 67

@@ -1,0 +1,95 @@
+[29-Jul-2016 11:25:54 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:25:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:25:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:25:54 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:25:54 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:26:02 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:26:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:26:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:26:02 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:26:02 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:28:16 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:28:16 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:28:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:28:16 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:28:16 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:28:44 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:28:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:28:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:28:44 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:28:44 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:30:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:30:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:30:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:30:25 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:30:25 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:30:35 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:30:35 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:30:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:30:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:30:35 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:31:54 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:31:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:31:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:31:54 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:31:54 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[29-Jul-2016 11:38:11 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vinaouts_vdusr01'@'localhost' (using password: YES) in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 11
+[29-Jul-2016 11:38:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 21
+[29-Jul-2016 11:38:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/sqlscripts/sqlscripts.php on line 7
+[29-Jul-2016 11:38:11 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[29-Jul-2016 11:38:11 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/include/db/dbconnect.php on line 25
+[01-Aug-2016 02:39:05 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 02:39:19 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 07:55:37 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 08:20:09 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:01:53 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:08:43 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:14:02 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:14:11 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:15:10 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:16:02 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:16:34 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:16:51 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:16:57 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:17:16 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:17:18 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:17:22 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:19:31 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:19:45 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:19:45 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:19:51 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:25:15 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:25:26 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:30:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:30:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:31:59 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:33:08 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:36:20 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:36:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:36:43 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 09:36:50 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[01-Aug-2016 10:15:26 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[02-Aug-2016 10:33:26 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[02-Aug-2016 10:33:39 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[03-Aug-2016 06:29:46 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[03-Aug-2016 06:30:26 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[03-Aug-2016 06:35:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[08-Aug-2016 12:46:46 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[08-Aug-2016 12:50:10 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[09-Aug-2016 12:27:28 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[09-Aug-2016 12:27:43 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[10-Aug-2016 09:15:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 04:07:42 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 08:47:11 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 09:27:49 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 09:32:08 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 09:32:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 09:33:28 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[15-Aug-2016 21:00:18 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[18-Aug-2016 11:55:38 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[22-Aug-2016 08:57:13 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[23-Aug-2016 06:16:16 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[23-Aug-2016 06:16:27 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[25-Aug-2016 09:00:13 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[30-Aug-2016 08:25:13 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22
+[30-Aug-2016 08:25:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/pscripts/login.php on line 22

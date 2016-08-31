@@ -1,0 +1,7 @@
+[30-Aug-2016 05:32:27 America/Denver] PHP Notice:  Undefined variable: cal_start_date in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 5
+[30-Aug-2016 05:32:27 America/Denver] PHP Notice:  Undefined variable: cal_end_date in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 6
+[30-Aug-2016 08:02:50 America/Denver] PHP Notice:  Undefined variable: cal_start_date in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 5
+[30-Aug-2016 08:02:50 America/Denver] PHP Notice:  Undefined variable: cal_end_date in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 6
+[30-Aug-2016 18:11:18 America/Denver] PHP Notice:  Undefined variable: cal_start_date in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 5
+[30-Aug-2016 18:11:18 America/Denver] PHP Notice:  Undefined variable: cal_end_date in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 6
+[30-Aug-2016 18:15:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/vinaouts/public_html/admin.vinaoutsource-database.com/ajaxrequest/calendar/calendar_insert.php on line 47
