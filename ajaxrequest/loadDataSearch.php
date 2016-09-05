@@ -132,7 +132,8 @@ if($count > 0)
                           ?></td>
                         <td><?php  if($customer['businessname']=='' ||$customer['businessname']==null){ echo "<span class='text-warning'>n/a</span>"; }else{ echo $customer['businessname']; } ?></td>
                          <td><?php echo @date("m/d/Y",$customer['Review_Date']); ?></td>
-                        <td><span><a href="../customer/customer_information?ret=<?php echo $customer['custid']; ?>" class="text-primary" target="_blank"><i class="fa fa-pencil"> </i> edit</a></span></td>
+                        <td><span><a href="../customer/customer_information?ret=<?php echo $customer['custid']; ?>" class="text-primary" target="_blank"><i class="fa fa-pencil"> </i> Edit</a></span></td>
+                        <td><span><a href="../calendar/calendar_add.php?ret=<?php echo $customer['custid']; ?>" class="text-primary" target="_blank"><i class="fa fa-pencil"> </i> Add Event</a></span></td>
                       </tr>
 
                     <?php } ?>

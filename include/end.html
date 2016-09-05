@@ -30,6 +30,28 @@
 		<script src='../assets/fullcalendar/lib/moment.min.js'></script>
 		<script src='../assets/fullcalendar/fullcalendar.min.js'></script>
 
+		<script type="text/javascript">
+			$(document).ready(function() 
+			{
+				var now = "<?php echo date('Y-m-d'); ?>";
+				$.ajax({
+					type:'GET',
+					url:'../ajaxrequest/calendar/calendar_between',
+					success:function(data)
+					{
+						var parse = JSON.parse(data);
+						$.each(parse, function (index, value) 
+						{
+							  if(now == value.start)
+							  {
+							  	 alert(value.title + " starts today" + " Customer: " + value.Last_Name + " " + value.First_Name );
+							  }
+						});
+					}
+				});
+			
+			});
+		</script>
 		<!-- END JAVASCRIPT -->
 	</body>
 </html>

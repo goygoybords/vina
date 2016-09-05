@@ -16,6 +16,7 @@ $("#reset_cal").click(function(e) {
 $(document).on('submit','#calendar_form',function(e){
 	e.preventDefault;
 	var data = $(this).serialize();
+	console.log(data);
 	$.ajax({
 		type:'POST',
 		url:'../ajaxrequest/calendar/calendar_insert',
@@ -27,6 +28,7 @@ $(document).on('submit','#calendar_form',function(e){
 			$("#cal_id").val("");
 			$('#cal_title').val("");
 			$('#cal_description').val("");
+			$('#users').val("");
 			$('.cal_start_date').val("");
 			$('.cal_end_date').val("");
 
@@ -58,6 +60,12 @@ $(document).on('click','#cal_edit',function(e){
 
 			var start = new Date(parse.start);
 			var end = new Date(parse.end);
+
+			$('#users').val(parse.user_id);
+			$('[name=users] option').filter(function() { 
+		    	return ($(this).val() == parse.Comprehensive);
+			}).prop('selected', true);
+
 
 			console.log(parse.start);
 			console.log(start);

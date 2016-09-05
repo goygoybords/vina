@@ -358,6 +358,7 @@ if(isset($_SESSION['userID']))
 										</div>
 										<div class="pull-right">
 											<div class="form-group">
+												<a href="export.php?id=<?php echo $cusid; ?>" class="btn ink-reaction btn-raised btn-primary"><i class="md md-save md-fw"></i>&nbsp; Export To PDF</a>
 												<a href="" class="btn ink-reaction btn-raised btn-primary"><i class="fa fa-refresh" aria-hidden="true"></i>&nbsp; Refresh Page</a>
 												<button type="submit" class="btn ink-reaction btn-raised btn-success savedtop"><i class="md md-save md-fw"> </i> &nbsp;Save</button>
 											</div>

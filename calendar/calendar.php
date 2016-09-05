@@ -40,13 +40,13 @@ if(isset($_SESSION['userID']))
 							<div class="card-body">
 								<div id="msg_inf"></div>
 							</div>
-							<div class="card-body style-default-bright">
+							<!-- <div class="card-body style-default-bright">
 								<div class="card-body">
 									<a class="btn ink-reaction btn-raised btn-success" href="calendar_add.php" target="_blank">
 										<label> Add Calender Event </label>
 									</a>
-								</div><!--end .card -->
-							</div><!--end .col -->
+								</div>
+							</div> -->
 							<div id='calendar'></div>
 					<!--end information-->
 						
@@ -96,6 +96,7 @@ $(document).ready(function() {
 			{
 				var parse = JSON.parse(data);
 				console.log(parse);
+				$('#calendar').fullCalendar('gotoDate', now);
 				$('#calendar').fullCalendar({
 					header: {
 						left: 'prev,next today',
@@ -105,7 +106,14 @@ $(document).ready(function() {
 					defaultDate: now,
 					editable: false,
 					eventLimit: true, // allow "more" link when too many events
-					events: parse
+					events: parse,
+					eventClick: function(event) 
+					{
+				        if (event.url) {
+				            window.open(event.url);
+				            return false;
+				        }
+				    }
 					
 				});
 				

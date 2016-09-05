@@ -15,14 +15,12 @@ if(isset($_SESSION['userID']))
 	include 'start.html';
 	require('header.php');
 
-	$db = new PDO("mysql:host=localhost;dbname=vinaouts_vddb01","vinaouts_vdusr01","VDdb01!@#");
-	$sql = "SELECT * FROM calendar_events WHERE status = 1 ORDER BY 1 DESC";
-	$cmd = $db->query($sql);
-	$events = $cmd->fetchAll();
+	require 'calendar_scripts.php';
 
-	
-
-
+	$id =  $_GET['ret'];
+	$events = getEvents();
+	$cust = getCustomer($id);
+	$users = getUsers();
  ?>
 <!-- BEGIN BASE-->
 <div id="base">
